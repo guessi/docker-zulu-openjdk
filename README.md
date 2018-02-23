@@ -1,8 +1,8 @@
 # Dockerized Zulu-OpenJDK
 
-[![Docker Stars](https://img.shields.io/docker/stars/guessi/zulu-openjdk.svg)](https://hub.docker.com/r/guessi/docker-zulu-openjdk/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/guessi/zulu-openjdk.svg)](https://hub.docker.com/r/guessi/docker-zulu-openjdk/)
-[![Docker Automated](https://img.shields.io/docker/automated/guessi/zulu-openjdk.svg)](https://hub.docker.com/r/guessi/docker-zulu-openjdk/)
+[![Docker Stars](https://img.shields.io/docker/stars/guessi/zulu-openjdk.svg)](https://hub.docker.com/r/guessi/zulu-openjdk/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/guessi/zulu-openjdk.svg)](https://hub.docker.com/r/guessi/zulu-openjdk/)
+[![Docker Automated](https://img.shields.io/docker/automated/guessi/zulu-openjdk.svg)](https://hub.docker.com/r/guessi/zulu-openjdk/)
 
 
 ## Usage

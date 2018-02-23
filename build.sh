@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPOSITORY="${1:-guessi/docker-zulu-openjdk}"
+REPOSITORY="${1:-guessi/zulu-openjdk}"
 
 SUPPORTED_DISTRO="debian ubuntu"
 IMAGE_LIST=$(mktemp)
