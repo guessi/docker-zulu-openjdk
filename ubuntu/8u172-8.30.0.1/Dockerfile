@@ -1,6 +1,6 @@
 FROM buildpack-deps:xenial-curl
 
-ENV ZULU_VERSION 8.25.0.1
+ENV ZULU_VERSION 8.30.0.1
 
 RUN apt-key adv                                                               \
         --keyserver hkp://keyserver.ubuntu.com:80                             \

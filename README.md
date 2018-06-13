@@ -23,10 +23,8 @@ Execute OpenJDK-8 inside Docker
 
 ## Tags and Dockerfile links
 
-* 9u04-9.0.4.1, 9, latest [(debian/9u04-9.0.4.1/Dockerfile)](debian/9u04-9.0.4.1/Dockerfile)
-* 9u01-9.0.1.3 [(debian/9u01-9.0.1.3/Dockerfile)](debian/9u01-9.0.1.3/Dockerfile)
-* 8u162-8.27.0.7, 8 [(debian/8u162-8.27.0.7/Dockerfile)](debian/8u162-8.27.0.7/Dockerfile)
-* 8u152-8.25.0.1 [(debian/8u152-8.25.0.1/Dockerfile)](debian/8u152-8.25.0.1/Dockerfile)
+* 9u07-9.0.7.1, 9, latest [(debian/9u07-9.0.7.1/Dockerfile)](debian/9u07-9.0.7.1/Dockerfile)
+* 8u172-8.30.0.1, 8 [(debian/8u172-8.30.0.1/Dockerfile)](debian/8u172-8.30.0.1/Dockerfile)
 
 
 ## FAQ
