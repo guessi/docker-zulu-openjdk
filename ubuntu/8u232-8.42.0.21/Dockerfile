@@ -1,6 +1,6 @@
 FROM buildpack-deps:bionic-curl
 
-ENV ZULU_VERSION 8.31.0.1
+ENV ZULU_VERSION 8.42.0.21
 
 RUN apt-key adv                                                               \
         --keyserver hkp://keyserver.ubuntu.com:80                             \

@@ -7,6 +7,10 @@
 
 ## Usage
 
+Execute OpenJDK-13 inside Docker
+
+    $ docker run --rm -it guessi/zulu-openjdk:13 java -version
+
 Execute OpenJDK-12 inside Docker
 
     $ docker run --rm -it guessi/zulu-openjdk:12 java -version
@@ -35,11 +39,12 @@ Execute OpenJDK-8 inside Docker
 
 ## Tags and Dockerfile links
 
-* 12.0.1-12.2, 12, latest [(debian/12.0.1-12.2/Dockerfile)](debian/12.0.1-12.2/Dockerfile)
-* 11.0.3-11.31, 11 [(debian/11.0.3-11.31/Dockerfile)](debian/11.0.3-11.31/Dockerfile)
+* 13.0.1-13.28, 13, latest [(debian/13.0.1-13.28/Dockerfile)](debian/13.0.1-13.28/Dockerfile)
+* 12.0.2-12.3, 12 [(debian/12.0.2-12.3/Dockerfile)](debian/12.0.2-12.3/Dockerfile)
+* 11.0.5-11.35, 11 [(debian/11.0.5-11.35/Dockerfile)](debian/11.0.5-11.35/Dockerfile)
 * 10u02-10.3, 10 [(debian/10u02-10.3/Dockerfile)](debian/10u02-10.3/Dockerfile)
 * 9u07-9.0.7.1, 9 [(debian/9u07-9.0.7.1/Dockerfile)](debian/9u07-9.0.7.1/Dockerfile)
-* 8u212-8.38.0.13, 8 [(debian/8u212-8.38.0.13/Dockerfile)](debian/8u212-8.38.0.13/Dockerfile)
+* 8u232-8.42.0.21, 8 [(debian/8u232-8.42.0.21/Dockerfile)](debian/8u232-8.42.0.21/Dockerfile)
 
 
 ## FAQ

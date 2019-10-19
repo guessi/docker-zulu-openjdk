@@ -1,6 +1,6 @@
 FROM buildpack-deps:stretch-curl
 
-ENV ZULU_VERSION 8.38.0.13
+ENV ZULU_VERSION 13.28+11
 
 RUN apt-key adv                                                               \
         --keyserver hkp://keyserver.ubuntu.com:80                             \
@@ -9,4 +9,4 @@ RUN apt-key adv                                                               \
     | tee /etc/apt/sources.list.d/zulu.list
 
 RUN apt-get update                                                         && \
-    apt-get -y install zulu-8=${ZULU_VERSION}
+    apt-get -y install zulu-13=${ZULU_VERSION}
